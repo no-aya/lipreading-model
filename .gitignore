@@ -1,4 +1,3 @@
-./data
-./checkpoints
-./.ipynb_checkpoints
-./.idea
+version https://git-lfs.github.com/spec/v1
+oid sha256:36b3adddab7b1df36a20da86bf649c0ddf87e4b4769c7aa70f4c748bbeb5b3ed
+size 29
