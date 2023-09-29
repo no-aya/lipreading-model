@@ -9,6 +9,11 @@ https://github.com/no-aya/lipreading-model/assets/106016869/33212609-2dc9-4144-8
 LipNet is one of the early models for sentence-level lip reading, as opposed to word-level. Similar to modern deep learning-based automatic speech recognition systems, LipNet is trained end-to-end to make sentence-level predictions. This model operates at the character level, using spatiotemporal convolutional neural networks (STCNNs), recurrent neural networks (RNNs), and the connectionist temporal classification (CTC) method. The choice of this research as the foundation for my project stems from its innovative nature and potential to address real-world communication and accessibility challenges.
 
 Building upon the advancements introduced by LipNet, I aimed to dive deeper into practical applications of automated lip reading by implementing a similar system. This project was carried out using Python, TensorFlow and Streamlit.
+## Model Architecture 
+
+![Picture1](https://github.com/no-aya/lipreading-model/assets/106016869/9af42e42-65ec-4613-9e4a-14fade280826)
+
+---
 
 ## Summary (French)
 
